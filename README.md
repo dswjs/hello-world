@@ -1,5 +1,6 @@
 # hello-world
 my first github repository
-from world with lov
-my favorite movie list, Matrix trilogy, godfather
+
+my favorite movie list, Matrix trilogy
 can change it here?
+it's a great movie, nomadland
